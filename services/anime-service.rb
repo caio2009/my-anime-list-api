@@ -2,8 +2,6 @@ require "./google/spreadsheet"
 
 class AnimeService
 
-	@worksheet
-
 	def initialize
 		@worksheet = SpreadSheet.get_instance.worksheets[0]
 	end

@@ -13,7 +13,7 @@ gem "google_drive"
 gem "oj"
 
 # Ruby framework for web applications
-gem 'sinatra', '~> 2.0', '>= 2.0.8.1'
+gem 'sinatra', '~> 2.2'
 
 
 
